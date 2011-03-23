@@ -8,7 +8,7 @@ public class Main extends MIDlet implements CommandListener {
     public Main() {
     }
 
-    // Display
+    // Display FUFUFU
     private Display m_display;
 
     // Main form to hold settings
